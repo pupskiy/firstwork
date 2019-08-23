@@ -1,0 +1,20 @@
+/*Lato*/
+@font-face {
+	font-family: "Lato";
+	src: url('font/Lato/Lato-Regular.eot') format('embedded-opentype'),
+		 url('font/Lato/Lato-Regular.ttf') format('true-type'),
+		 url('font/Lato/Lato-Regular.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+/* Times New Roman */
+@font-face {
+	font-family: "Times New Roman";
+	src: url('font/TimesNewRoman/TimesNewRoman.eot') format('embedded-opentype'),
+		 url('font/TimesNewRoman/TimesNewRoman.ttf') format('true-type'),
+		 url('font/TimesNewRoman/TimesNewRoman.woff') format('woff'),
+		 url('font/TimesNewRoman/TimesNewRoman.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
